@@ -23,19 +23,19 @@ Dê uma olhada em como ficou o visual
 ### 📂 Painel Principal
 _O hub central que conecta suas ferramentas._
 <div align="center">
-  <img src="./assets/menu_principal.png" alt="Menu Principal" width="600">
+  <img src="./menu_principal.png" alt="Menu Principal" width="600">
 </div>
 
 ### 📝 Módulo de Cadastro
 _Validação de dados e inserção segura com suporte a temas._
 <div align="center">
-  <img src="./assets/print_cadastro.png" alt="Tela de Cadastro" width="700">
+  <img src="./print_cadastro.png" alt="Tela de Cadastro" width="700">
 </div>
 
 ### 🔍 Módulo de Busca
 _Encontre qualquer colaborador pelo nome em milissegundos._
 <div align="center">
-  <img src="./assets/print_busca.png" alt="Tela de Busca" width="700">
+  <img src="./print_busca.png" alt="Tela de Busca" width="700">
 </div>
 
 ---
