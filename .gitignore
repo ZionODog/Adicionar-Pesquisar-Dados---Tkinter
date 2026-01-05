@@ -1,0 +1,11 @@
+# Ignorar arquivos compilados do Python
+__pycache__/
+*.py[cod]
+
+# Ignorar ambientes virtuais
+env/
+venv/
+.env
+
+# Ignorar arquivos temporários do sistema
+.DS_Store
